@@ -1,7 +1,7 @@
 
 <h1 align="center">  📊Customer Churn Prediction📊</h1>
 <div align="center">
-  <img src="photo.png" width='280'>
+  <img src="Customer Churn Prediction Logo.jpeg" width='280'>
 </div>
 
 
