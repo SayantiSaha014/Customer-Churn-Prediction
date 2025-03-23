@@ -88,7 +88,6 @@ Named
 
 ##  **Model Evaluation**
 
-The model performance is evaluated using the following metrics like Accuracy , Precision , Recall , F1-score , ROC-AUC Score.
 The final Accuracy is 80% and ROC-AUC Score is 84% .
 
 
