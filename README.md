@@ -66,12 +66,10 @@ Named
 
 1.	Data Collection: Kaggle dataset (CSV format).
 2.	Data Preprocessing:
-o	Handling missing values, encoding categorical features.
-o	Normalizing numerical values for better model performance.
-3.	Modeling:
-o	Random Forest Classifier (optimized with hyperparameter tuning).
+	- Handling missing values, encoding categorical features.
+  - Normalizing numerical values for better model performance.
+3.	Modeling : Random Forest Classifier 
 4.	Evaluation:
-o	Metrics: Accuracy, Precision, Recall, F1-score, ROC-AUC.
-o	Confusion matrix for deeper insights.
-5.	Power BI Integration:
-o	Exported results as CSV for visualization.
+  - Metrics: Accuracy, Precision, Recall, F1-score, ROC-AUC.
+  -	Confusion matrix for deeper insights.
+5.	Power BI Integration : Exported results as CSV for visualization.
