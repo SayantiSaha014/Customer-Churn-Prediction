@@ -19,10 +19,6 @@ This project demonstrates the effective use of machine learning in solving real-
 PowerBi Dashboard, using Python and Machine Learning for modeling
 
 
-## 🎬**Video WalkThrough of the project**
-
-
-
 ## 📂 **About the Dataset**
 
 The dataset `Telco-Customer-Churn.csv` includes comprehensive collection of historical customer information, designed to help identify patterns and key factors influencing customer churn.
